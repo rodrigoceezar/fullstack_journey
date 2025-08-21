@@ -43,5 +43,40 @@ O objetivo é **me tornar Desenvolvedor Fullstack Júnior em 2025**, construindo
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório]
+
+```bash
+fullstack-journey-2025/
+├── Modulo-01-Fundamentos-Web/
+├── Modulo-02-Ferramentas/
+├── Modulo-03-Frontend-Avancado/
+├── Modulo-04-Backend-Node/
+├── Modulo-05-Integracao-Fullstack/
+└── Modulo-06-Portfolio/
+```
+
+---
+
+## 📊 Progresso
+<!-- mod 1: 17; mod 2:33 mod 3:50; mod 4: 67, mod 5: 83, mod 6: 100-->
+
+![Progresso](https://progress-bar.xyz/0?title=Concluído)
+
+---
+
+## 🔗 Links Úteis
+
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/) – Referência oficial web.  
+- [W3Schools](https://www.w3schools.com/) – Tutoriais rápidos.  
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/) – Exercícios práticos.  
+- [Roadmap.sh](https://roadmap.sh/full-stack) – Guia visual de estudo.  
+
+---
+
+## 👨‍💻 Autor
+
+**Rodrigo Cruz**  
+🚀 Engenheiro Cartógrafo apaixonado por programação.  
+📌 Explorando e aprendendo desenvolvimento Fullstack como nova habilidade em 2025 
+📬 Entre em contato: [LinkedIn](www.linkedin.com/in/rodrigoceezar) | [Email](rodrigocruz.ce.pro@gmail.com)
 
