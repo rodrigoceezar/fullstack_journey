@@ -43,16 +43,50 @@ O objetivo é **me tornar Desenvolvedor Fullstack Júnior em 2025**, construindo
 
 ---
 
-## 📂 Estrutura do Repositório]
+## 📂 Estrutura do Repositório
 
 ```bash
 fullstack-journey-2025/
+│
+├── README.md                  → README principal da jornada
+│
 ├── Modulo-01-Fundamentos-Web/
+│   ├── HTML5/
+│   │   ├── README.md          → teoria + exercícios de HTML5
+│   │   └── exercicios/
+│   │       ├── exercicio-01.html
+│   │       ├── exercicio-02.html
+│   │       └── ...
+│   │
+│   ├── CSS3/
+│   │   ├── README.md          → teoria + exercícios de CSS3
+│   │   └── exercicios/
+│   │
+│   └── JavaScript-Basico/
+│       ├── README.md          → teoria + exercícios de JS básico
+│       └── exercicios/
+│
 ├── Modulo-02-Ferramentas/
+│   ├── Git-GitHub/
+│   ├── Terminal-CMD/
+│   └── IDE-Editor/
+│
 ├── Modulo-03-Frontend-Avancado/
+│   ├── JavaScript-Avancado/
+│   ├── React/
+│   └── Estilizacao/
+│
 ├── Modulo-04-Backend-Node/
+│   ├── Node-Basico/
+│   ├── Express/
+│   ├── APIs/
+│   └── PostgreSQL/
+│
 ├── Modulo-05-Integracao-Fullstack/
+│   └── Projetos/
+│
 └── Modulo-06-Portfolio/
+    └── Projetos-Finais/
 ```
 
 ---
