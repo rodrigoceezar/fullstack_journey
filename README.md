@@ -48,22 +48,22 @@ O objetivo é **me tornar Desenvolvedor Fullstack Júnior em 2025**, construindo
 ```bash
 fullstack-journey-2025/
 │
-├── README.md                  → README principal da jornada
+├── README.md               
 │
 ├── Modulo-01-Fundamentos-Web/
 │   ├── HTML5/
-│   │   ├── README.md          → teoria + exercícios de HTML5
+│   │   ├── README.md         
 │   │   └── exercicios/
 │   │       ├── exercicio-01.html
 │   │       ├── exercicio-02.html
 │   │       └── ...
 │   │
 │   ├── CSS3/
-│   │   ├── README.md          → teoria + exercícios de CSS3
+│   │   ├── README.md          
 │   │   └── exercicios/
 │   │
 │   └── JavaScript-Basico/
-│       ├── README.md          → teoria + exercícios de JS básico
+│       ├── README.md       
 │       └── exercicios/
 │
 ├── Modulo-02-Ferramentas/
