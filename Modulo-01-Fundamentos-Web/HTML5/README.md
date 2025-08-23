@@ -10,7 +10,8 @@ Aqui documento **minhas anotações diárias, teoria resumida, exercícios e lin
 > 💡 Espaço para registrar o que foi estudado a cada dia.  
 > Formato sugerido: `DD/MM/AAAA – resumo do aprendizado`.
 
-> 21/08/2025 - Etapa 1 - Estrutura básica de uma página HTML
+> 21/08/2025 - Etapa 1 - Estrutura básica de uma página HTML.
+> 
 > 22/08/2025 - Etapa 1 - Mão na Massa - Criando o index.html e entendendo toda a estrutura HTML
 
 ---
