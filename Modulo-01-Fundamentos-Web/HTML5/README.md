@@ -21,7 +21,6 @@ Aqui documento **minhas anotações diárias, teoria resumida, exercícios e lin
 ### ✅ Etapa 1 – Estrutura Básica de uma Página
 - Aprender a anatomia de um documento HTML (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`).  
 - Criar títulos, parágrafos e listas.
-📂 [Etapa 01](./fullstack_journey/Modulo-01-Fundamentos-Web/HTML5/Etapa-01/)
 
 ### ⏳ Etapa 2 – Tags Semânticas
 - Usar `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`.  
