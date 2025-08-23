@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Onde fica o título da página, links para arquivos css e js e os metadados -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curso de HTML</title>
+</head>
+
+<body>
+    <!-- Cabeçalhos-->
+    <h1>Cabeçalho 1</h1>
+    <h2>Cabeçalho 2</h2>
+    <h3>Cabeçalho 3</h3>
+    <h4>Cabeçalho 4</h4>
+    <h5>Cabeçalho 5</h5>
+    <h6>Cabeçalho 6</h6>
+
+    <!-- Paragrafos -->
+    <p>Este é um paragrafo</p>
+    <p>Lorem ipsum dolor, sit amet <strong>consectetur adipisicing</strong> elit. Rerum, doloremque.</p>
+
+    <!-- Conceitos importantes -->
+    <!--
+    Elementos Inline: São elementos que não iniciam em uma nova linha e que ocupam apenas a largura necessária
+        Ex: <span> <img> <a> <strong> <em> <img>
+    Elementos Block: São elementos que sempre iniciam em uma nova linha e que ocupam toda a largura da linha.
+        Ex: <div>, <h1>, <h6>, <form>
+     -->
+
+    <!-- Links -->
+    <a href="https://google.com" target="_blank">Google</a>
+
+    <!-- Atributos de um tag -->
+    <!--
+     Todas as tags podem ser atributos, tem o padrão key=value pairs (ex: href="https://...")
+      -->
+
+    <!-- Tables -->
+    <table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Idade</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Rodrigo Cruz</td>
+                <td>rodrigo@email.com</td>
+                <td>25</td>
+            </tr>
+            <tr>
+                <td>Joao</td>
+                <td>Joao@email.com</td>
+                <td>20</td>
+            </tr>
+            <tr>
+                <td>Maria</td>
+                <td>Maria@email.com</td>
+                <td>30</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Formulários -->
+    <form action="form.php" method="POST">
+        <div>
+            <label>Primeiro Nome:</label>
+            <input type="text" placeholder="Digite seu nome">
+        </div>
+        <div>
+            <label>Segundo Nome:</label>
+            <input type="text">
+        </div>
+        <div>
+            <label>Email:</label>
+            <input type="email">
+        </div>
+        <div>
+            <label>Gênero:</label>
+            <select>
+                <option value="masculino">masculino</option>
+                <option value="feminino">feminino</option>
+            </select>
+        </div>
+        <div>
+            <label>Data de Nascimento:</label>
+            <input type="date">
+        </div>
+        <div>
+            <label>Mensagem</label>
+            <textarea name="mensagem"></textarea>
+        </div>
+        <div>
+            <label>Senha</label>
+            <input type="password">
+        </div>
+        <input type="submit" />
+    </form>
+
+    <!-- Botões -->
+    <button>Clique</button>
+
+    <!-- Imagens -->
+    <br>
+    <img src="images.jpg" alt="paisagem" width="100" height="60">
+
+    <!-- Blockquote - Citação -->
+    <blockquote cite="dicasparadevs.com.br">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure, numquam.
+    </blockquote>
+
+    <p>Lorem, <abbr title="ipsum">ipsum</abbr> dolor.</p>
+    <p>Lorem ipsum dolor sit amet <cite>consectetur</cite> adipisicing.</p>
+</body>
+
+</html>
