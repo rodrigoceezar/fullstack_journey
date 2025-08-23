@@ -12,7 +12,7 @@ Aqui documento **minhas anotações diárias, teoria resumida, exercícios e lin
 
 > 21/08/2025 - Etapa 1 - Estrutura básica de uma página HTML.
 > 
-> 22/08/2025 - Etapa 1 - Mão na Massa - Criando o index.html e entendendo toda a estrutura HTML
+> 22/08/2025 - Etapa 1 - Mão na Massa - Criando o index.html e entendendo toda a estrutura HTML e as principais tags HTML
 
 ---
 
