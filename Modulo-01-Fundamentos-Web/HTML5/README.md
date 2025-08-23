@@ -11,6 +11,7 @@ Aqui documento **minhas anotações diárias, teoria resumida, exercícios e lin
 > Formato sugerido: `DD/MM/AAAA – resumo do aprendizado`.
 
 > 21/08/2025 - Etapa 1 - Estrutura básica de uma página HTML
+> 22/08/2025 - Etapa 1 - Mão na Massa - Criando o index.html e entendendo toda a estrutura HTML
 
 ---
 
@@ -50,7 +51,7 @@ Ao final desta disciplina, terei construído um site completo usando apenas **HT
 ---
 
 ## 📊 Progresso
-- [ ] Etapa 1 – Estrutura Básica  
+- [x] Etapa 1 – Estrutura Básica  
 - [ ] Etapa 2 – Tags Semânticas  
 - [ ] Etapa 3 – Textos, Links e Imagens  
 - [ ] Etapa 4 – Listas e Tabelas  
